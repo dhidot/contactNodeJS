@@ -1,1 +1,12 @@
-[{"nama":"Chandra Nugrahanindhito","noHP":"081806262480","email":"chandranindhito2gmail.com"}]
+[
+  {
+    "nama": "Chandra Nugrahanindhito",
+    "email": "chandranindhito@gmail.com",
+    "noHP": "081806262480"
+  },
+  {
+    "nama": "Nurida Larasati",
+    "email": "nrdlrst@gmail.com",
+    "noHP": "087571184040"
+  }
+]
